@@ -1,7 +1,7 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: gnipt
- * Date: 15/1/3
- * Time: 03:00
+ *
+ * Author: tabalt <tabalt@tabalt.net>
+ * Date: 2015-01-04 22:45
  */
+
